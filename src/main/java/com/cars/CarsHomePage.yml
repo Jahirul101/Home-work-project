@@ -1,0 +1,27 @@
+urls:
+  default: https://www.cars.com/
+elements:
+  new_and_used_cars_dropdown:
+    elementType: Dropdown
+    name: stockType
+  make_dropdown:
+    elementType: Dropdown
+    name: makeId
+  model_dropdown:
+    elementType: Dropdown
+    name: modelId
+  price_dropdown:
+    elementType: Dropdown
+    name: priceMax
+  distance_dropdown:
+    elementType: Dropdown
+    name: radius
+  zipcode_textbox:
+    elementType: Textbox
+    name: zip
+  filter_options:
+    elementType: Div
+    xpath: "//div[@class='breadcrumb__container']"
+  search_button:
+    elementType: Button
+    xpath: "//input[@type='submit'][@value='Search'][@class='NZE2g']"  

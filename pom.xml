@@ -3,8 +3,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.dougnoel</groupId>
-	<artifactId>com.dougnoel.sentinel.example</artifactId>
+	<groupId>com.jahirul</groupId>
+	<artifactId>com.jahirul.sentinel.example</artifactId>
 	<version>1.0.5-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
@@ -28,7 +28,7 @@
 	<dependencies>
 		<!-- Sentinel -->
 		<dependency>
-			<groupId>com.dougnoel</groupId>
+			<groupId>com.jahirul</groupId>
 			<artifactId>sentinel</artifactId>
 			<version>1.0.5-SNAPSHOT</version>
 		</dependency>
